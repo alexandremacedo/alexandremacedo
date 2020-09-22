@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm 
+My name is Alexandre Macedo and I'm a software developer. I'm from Brazil. You can find me on [![LinkedIn][linkedin-logo]][linkedin].
 
 ### Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
@@ -48,3 +48,12 @@ I'm
 
 
 ## Live long and prosper 🖖
+
+
+[linkedin]: https://www.linkedin.com/in/alexandreomacedo/
+[linkedin-logo]: 
+
+<!-- Resources -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- Shields: https://shields.io/ -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
