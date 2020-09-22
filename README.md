@@ -46,9 +46,9 @@ My name is Alexandre Macedo and I'm a software developer. I'm from Brazil. You c
 ![](https://img.shields.io/badge/More-Insomnia-informational?style=flat&logo=insomnia&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/More-Figma-informational?style=flat&logo=figma&logoColor=white&color=2bbc8a)
 
+### JavaScript, the initial frontier 🚀
 
-## Live long and prosper 🖖
-
+### Live long and prosper 🖖
 
 [linkedin]: https://www.linkedin.com/in/alexandreomacedo/
 [linkedin-logo]: https://raw.githubusercontent.com/AlexandreMacedoo/alexandremacedoo/master/.github/linkedin-3-16.png
