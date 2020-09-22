@@ -1,4 +1,6 @@
-## Hi there 🖖
+## Hi there 👋
+
+I'm 
 
 ### Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
@@ -39,9 +41,10 @@
 ![](https://img.shields.io/badge/More-Babel-informational?style=flat&logo=babel&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/More-Swagger-informational?style=flat&logo=swagger&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/More-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Jest-informational?style=flat&logo=jest&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Insomnia-informational?style=flat&logo=insomnia&logoColor=white&color=2bbc8a)
-
-
+![](https://img.shields.io/badge/More-Redux-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/More-Jest-informational?style=flat&logo=jest&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/More-Insomnia-informational?style=flat&logo=insomnia&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/More-Figma-informational?style=flat&logo=figma&logoColor=white&color=2bbc8a)
+
+
+## Live long and prosper 🖖
