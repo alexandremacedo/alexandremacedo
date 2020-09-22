@@ -51,7 +51,7 @@ My name is Alexandre Macedo and I'm a software developer. I'm from Brazil. You c
 
 
 [linkedin]: https://www.linkedin.com/in/alexandreomacedo/
-[linkedin-logo]: 
+[linkedin-logo]: https://raw.githubusercontent.com/AlexandreMacedoo/alexandremacedoo/master/.github/linkedin-3-16.png
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
