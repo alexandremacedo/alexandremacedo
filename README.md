@@ -37,6 +37,7 @@ My name is Alexandre Macedo and I'm a software developer. I'm from Brazil. You c
 ![](https://img.shields.io/badge/More-AdonisJS-informational?style=flat&logo=adonisjs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/More-JsonWebTokens-informational?style=flat&logo=json-web-tokens&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/More-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/More-Tailwindcss-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/More-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/More-Babel-informational?style=flat&logo=babel&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/More-Swagger-informational?style=flat&logo=swagger&logoColor=white&color=2bbc8a)
